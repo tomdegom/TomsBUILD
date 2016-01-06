@@ -1,0 +1,18 @@
+<settings>
+    <setting id="host" value="192.168.0.9" />
+    <setting id="iconpath" value="" />
+    <setting id="onegroup" value="sky tv entertainment" />
+    <setting id="onlinepicons" value="true" />
+    <setting id="onlycurrent" value="false" />
+    <setting id="onlyonegroup" value="true" />
+    <setting id="pass" value="" />
+    <setting id="recordingpath" value="" />
+    <setting id="setpowerstate" value="false" />
+    <setting id="streamport" value="8001" />
+    <setting id="timerlistcleanup" value="false" />
+    <setting id="updateint" value="2" />
+    <setting id="use_secure" value="true" />
+    <setting id="user" value="root" />
+    <setting id="webport" value="80" />
+    <setting id="zap" value="false" />
+</settings>

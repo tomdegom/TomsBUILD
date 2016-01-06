@@ -1,0 +1,5 @@
+<settings>
+    <setting id="downloadPath" value="F:\" />
+    <setting id="droid" value="false" />
+    <setting id="meta" value="false" />
+</settings>

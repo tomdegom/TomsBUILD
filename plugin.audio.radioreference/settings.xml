@@ -1,0 +1,4 @@
+<settings>
+    <setting id="debug" value="true" />
+    <setting id="expertlist" value="true" />
+</settings>

@@ -1,0 +1,46 @@
+<settings>
+    <setting id="live_tv_CASTALBA.TV_source_enabled" value="true" />
+    <setting id="live_tv_FILMON.COM_source_enabled" value="true" />
+    <setting id="live_tv_ILIVE.TO_source_enabled" value="true" />
+    <setting id="live_tv_LIVESTATION.COM_source_enabled" value="true" />
+    <setting id="live_tv_OFFSIDE STREAMS_source_enabled" value="false" />
+    <setting id="live_tv_Playlist Community_source_enabled" value="true" />
+    <setting id="live_tv_STREAMTVBOX_source_enabled" value="false" />
+    <setting id="live_tv_abc_family_indexer_enabled" value="true" />
+    <setting id="live_tv_abc_indexer_enabled" value="true" />
+    <setting id="live_tv_axn_black_indexer_enabled" value="true" />
+    <setting id="live_tv_axn_indexer_enabled" value="true" />
+    <setting id="live_tv_axn_white_indexer_enabled" value="true" />
+    <setting id="live_tv_bravo_indexer_enabled" value="true" />
+    <setting id="live_tv_bt_sport_1_indexer_enabled" value="true" />
+    <setting id="live_tv_bt_sport_2_indexer_enabled" value="true" />
+    <setting id="live_tv_cbs_indexer_enabled" value="true" />
+    <setting id="live_tv_cnbc_indexer_enabled" value="true" />
+    <setting id="live_tv_cnn_indexer_enabled" value="true" />
+    <setting id="live_tv_english_indexer_enabled" value="true" />
+    <setting id="live_tv_entertainment_indexer_enabled" value="true" />
+    <setting id="live_tv_espn_2_indexer_enabled" value="true" />
+    <setting id="live_tv_espn_indexer_enabled" value="true" />
+    <setting id="live_tv_espn_uk_indexer_enabled" value="true" />
+    <setting id="live_tv_eurosport_2_indexer_enabled" value="true" />
+    <setting id="live_tv_eurosport_indexer_enabled" value="true" />
+    <setting id="live_tv_fox_news_indexer_enabled" value="true" />
+    <setting id="live_tv_general_indexer_enabled" value="true" />
+    <setting id="live_tv_genres" value="false" />
+    <setting id="live_tv_hbo_indexer_enabled" value="true" />
+    <setting id="live_tv_history_indexer_enabled" value="true" />
+    <setting id="live_tv_languages" value="false" />
+    <setting id="live_tv_msnbc_indexer_enabled" value="true" />
+    <setting id="live_tv_news_indexer_enabled" value="true" />
+    <setting id="live_tv_regions" value="true" />
+    <setting id="live_tv_sky_sports_1_indexer_enabled" value="true" />
+    <setting id="live_tv_sky_sports_2_indexer_enabled" value="true" />
+    <setting id="live_tv_sky_sports_3_indexer_enabled" value="true" />
+    <setting id="live_tv_sky_sports_4_indexer_enabled" value="true" />
+    <setting id="live_tv_sky_sports_f1_indexer_enabled" value="true" />
+    <setting id="live_tv_sky_sports_news_indexer_enabled" value="true" />
+    <setting id="live_tv_spanish_indexer_enabled" value="true" />
+    <setting id="live_tv_sports_indexer_enabled" value="true" />
+    <setting id="live_tv_united_kingdom_indexer_enabled" value="true" />
+    <setting id="live_tv_united_states_indexer_enabled" value="true" />
+</settings>

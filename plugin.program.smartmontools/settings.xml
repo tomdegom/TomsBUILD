@@ -1,0 +1,9 @@
+<settings>
+    <setting id="dbUpdateInterval" value="5" />
+    <setting id="diskTypes" value="" />
+    <setting id="lastDBupdateChecked" value="2016-1-2" />
+    <setting id="runOnStartup" value="true" />
+    <setting id="showPopups" value="true" />
+    <setting id="showSmartdStartUpPopup" value="false" />
+    <setting id="updateDB" value="true" />
+</settings>

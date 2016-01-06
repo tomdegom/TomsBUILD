@@ -1,0 +1,11 @@
+<settings>
+    <setting id="connect_timeout" value="9" />
+    <setting id="epg_async" value="true" />
+    <setting id="host" value="192.168.0.9" />
+    <setting id="htsp_port" value="443" />
+    <setting id="http_port" value="80" />
+    <setting id="pass" value="" />
+    <setting id="response_timeout" value="4" />
+    <setting id="trace_debug" value="false" />
+    <setting id="user" value="root" />
+</settings>
